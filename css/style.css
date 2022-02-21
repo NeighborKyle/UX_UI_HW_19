@@ -45,7 +45,7 @@ p{
   text-align: center;
 }
 .profilePicture{
-  max-width: 100%;
+  max-width: 100% !important;
 }
 .emailCircle{
   z-index: 1;
